@@ -17,7 +17,5 @@ namespace E_Players_Application.Interfaces
 
         void Delete(int id);
 
-    
-    
     }
 }

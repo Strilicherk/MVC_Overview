@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.IO;
-using E_Players_Application.Interfaces;
+using MVC_Overview.Interfaces;
 
 namespace E_Players_Application.Models
 {
-    public class News : EPlayersBase , ITeam
+    public class News : EPlayersBase , INews
     {
 
         public int IdNews { get; set; }
@@ -23,6 +23,7 @@ namespace E_Players_Application.Models
             CreateFolderAndFile(PATH);
         }
 
+        
         public string PrepareCSV(News n)
         {
             return $"{n.IdNews};{n.Title};{n.Text};{n.Image}";
@@ -30,10 +31,10 @@ namespace E_Players_Application.Models
 
         public void Create(News n)
         {
-            string[] lines = { PrepareCSV(n)};
+            string[] lines = {PrepareCSV(n)};
             File.AppendAllLines(PATH, lines);
         }
-
+        
         public List<News> ReadAll()
         {
             List<News> newsList = new List<News>();
@@ -75,5 +76,6 @@ namespace E_Players_Application.Models
 
             RewriteCSV(PATH, linesRemove);
         }
+
     }
 }

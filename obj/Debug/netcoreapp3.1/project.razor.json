@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Nova pasta.csproj",
+  "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Nova pasta.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,38 +14392,43 @@
   "RootNamespace": "Nova_pasta",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\Team\\Index.cshtml",
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\Team\\Index.cshtml",
       "TargetPath": "Views\\Team\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Nova pasta\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\News\\Index.cshtml",
+      "TargetPath": "Views\\News\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Desktop\\MVC_Overview\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

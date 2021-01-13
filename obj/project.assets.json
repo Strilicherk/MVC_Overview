@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Desktop\\Nova pasta\\Nova pasta.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\MVC_Overview\\Nova pasta.csproj",
       "projectName": "Nova pasta",
-      "projectPath": "C:\\Users\\dev\\Desktop\\Nova pasta\\Nova pasta.csproj",
+      "projectPath": "C:\\Users\\dev\\Desktop\\MVC_Overview\\Nova pasta.csproj",
       "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Desktop\\Nova pasta\\obj\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\MVC_Overview\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
