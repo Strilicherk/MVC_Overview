@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using E_Players_Application.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -25,8 +26,39 @@ namespace EPlayer_AspNetCore.Controllers
             Team newTeam = new Team();
             newTeam.IdTeam = Int32.Parse(form["IdTeam"]);
             newTeam.Name = form["Name"];
-            newTeam.Image = form["Image"];
+            
+            //Uploada Inicio
+            //Verifica se o usuario anexou um arquivo
+            if( form.Files.Count > 0 )
+            {
+                //Se sim
+                //Armazenamos o arquivo na variave file
+                var file    = form.Files[0];
+                var folder  = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Teams");
 
+                //Verificamos se a pasta existe
+                if (!Directory.Exists(folder))
+                {
+                    //Caso não exista ela será criada
+                    Directory.CreateDirectory(folder);
+                }
+
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/", folder, file.FileName);
+
+                using (var stream = new FileStream(path, FileMode.Create))
+                {   
+                    //Salamos o arquivo no caminho especificado
+                    file.CopyTo(stream);
+                }
+
+                newTeam.Image = file.FileName;
+            }
+            else
+            {
+                newTeam.Image = "padrao.png";
+            }
+            //Upload Termino
+            
             //Chamamos o método
             // Create para salvar a
             // newTeam no CSV

@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MVC_Overview.Controllers
 {
+    [Route("News")]
     public class NewsController : Controller
     {
         News newsModel = new News();
@@ -27,7 +28,7 @@ namespace MVC_Overview.Controllers
             newsModel.Create(newNews);
             ViewBag.News = newsModel.ReadAll();
 
-            return LocalRedirect("~/Team/Listar");
+            return LocalRedirect("~/News/Listar");
         }
     }
 }
