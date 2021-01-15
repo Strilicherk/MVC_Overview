@@ -111,3 +111,39 @@ C:\Users\mathe\OneDrive\Área de Trabalho\MVC_OverviewAtual\obj\Debug\netcoreapp
 C:\Users\mathe\OneDrive\Área de Trabalho\MVC_OverviewAtual\obj\Debug\netcoreapp3.1\Nova pasta.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\MVC_OverviewAtual\obj\Debug\netcoreapp3.1\Nova pasta.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\MVC_OverviewAtual\obj\Debug\netcoreapp3.1\Nova pasta.csproj.CopyComplete
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.exe
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.deps.json
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.runtimeconfig.json
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.runtimeconfig.dev.json
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.dll
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.pdb
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.Views.dll
+C:\Users\fic\Desktop\MVC_Overview\bin\Debug\netcoreapp3.1\Nova pasta.Views.pdb
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\staticwebassets\Nova pasta.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\staticwebassets\Nova pasta.StaticWebAssets.xml
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.AssemblyInfo.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.TagHelpers.input.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.TagHelpers.output.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.RazorCoreGenerate.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\Team\Index.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.RazorTargetAssemblyInfo.cs
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.Views.pdb
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.dll
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.pdb
+C:\Users\fic\Desktop\MVC_Overview\obj\Debug\netcoreapp3.1\Nova pasta.csproj.CopyComplete
