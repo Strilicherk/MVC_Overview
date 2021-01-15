@@ -3,13 +3,13 @@
     ViewData["Title"] = "Teams";
 }
 
-<form method="POST" action='@Url.Action("Cadastrar")'>
+<form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
     <label>ID</label>
     <input type="text" name="IdTeam" />
     <label>Name</label>
     <input type="text" name="Name"/>
     <label>Image</label>
-    <input type="text" name="image" />
+    <input type="file" name="image" />
     <button type="submit">Register</button>
 </form>
 
@@ -25,7 +25,8 @@
             <tr>
                 <td>@team.IdTeam</td>
                 <td>@team.Name</td>
-                <td>@team.Image</td>
+                <td><img src="/img/Teams/@team.Image" alt="Imagem da equipe @team.Name" width="40"></td>
+                <td><a asp-area="Link para excluir uma equipe" asp-controller="Team" asp-action="Excluir" asp-route-id="@team.IdTeam">Delete</a></td>
             </tr>
         }
     </tbody>

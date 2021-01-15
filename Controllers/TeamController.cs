@@ -66,5 +66,16 @@ namespace EPlayer_AspNetCore.Controllers
             ViewBag.Teams = teamModel.ReadAll();
             return LocalRedirect("~/Team/Listar");
         }
+        
+        //https://localhost:5001/Teams/1
+        [Route("{id}")]
+        public IActionResult Excluir(int id)
+        {
+            teamModel.Delete(id);
+
+            ViewBag.Teams = teamModel.ReadAll();
+
+            return LocalRedirect("~/Team/Listar");
+        }
     }
 }
